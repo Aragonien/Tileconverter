@@ -1,7 +1,7 @@
 # Tileconverter
 
 ## What does this program do?
-This program converts 24x24pixel frames into 8x8pixel frame rows, that can be imported as animated tiles on the BPA layer in the Skytemple Rom Editor.
+This program converts 24x24pixel frames into 8x8pixel frame rows, that can be imported as animated tiles on the BPA layer in the Skytemple Rom Editor. Also it's recommended to use an empty folder as the output destination
 
 ## How do I have to format my frames?
 The individual frames should all be line up from first to last, from left to right, without any pixels in between the frames or around the frames.
